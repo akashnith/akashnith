@@ -2,7 +2,6 @@
 
 <p align="center">
   Materials engineer · oxide memristive devices · neuromorphic hardware
----
 
 I work on the experimental side of computing hardware: oxide thin films and heterostructures, structural and electrical characterisation of memristive and ferroelectric devices, and measurement automation for neuromorphic and other unconventional computing, with a growing interest in quantum computing hardware.
 
